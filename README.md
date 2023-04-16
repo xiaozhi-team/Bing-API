@@ -1,6 +1,6 @@
 # Bing每日图片API
 
-[中文文档](https://gitee.com/xiaozhi_boy/bingIMG/blob/master/README.md)|[英文文档](https://gitee.com/xiaozhi_boy/bingIMG/blob/master/README.en.md)
+[中文文档]([https://gitee.com/xiaozhi_boy/bingIMG/blob/master/README.md](https://github.com/xiaozhi-boy/Bing-Daily-Image-API/blob/main/README.md))|[英文文档]([https://gitee.com/xiaozhi_boy/bingIMG/blob/master/README.en.md](https://github.com/xiaozhi-boy/Bing-Daily-Image-API/blob/main/README.en.md))
 
 #### 介绍
 Bing每日图片API
