@@ -1,7 +1,5 @@
 # Bing每日图片API
 
-[中文文档]([https://gitee.com/xiaozhi_boy/bingIMG/blob/master/README.md](https://github.com/xiaozhi-boy/Bing-Daily-Image-API/blob/main/README.md))|[英文文档]([https://gitee.com/xiaozhi_boy/bingIMG/blob/master/README.en.md](https://github.com/xiaozhi-boy/Bing-Daily-Image-API/blob/main/README.en.md))
-
 #### 介绍
 Bing每日图片API
 可以获取Bing的每日壁纸
@@ -9,6 +7,7 @@ Bing每日图片API
 建议使用PHP(7.4)
 #### 使用说明
 直接对PHP进行访问即可
+成功后返回Bing IMG的URL以及其他数据
 #### 返回数据
 | 序列号 | 返回头       | 返回信息      | 备注                                                                                                     |
 |-----|-----------|-----------|--------------------------------------------------------------------------------------------------------|
