@@ -1,7 +1,6 @@
 # Bing Daily Image API
  **This reading document is prepared by translator, and the accuracy of the text is not guaranteed** 
 
-[中文文档]([https://gitee.com/xiaozhi_boy/bingIMG/blob/master/README.md](https://github.com/xiaozhi-boy/Bing-Daily-Image-API/blob/main/README.md))|[英文文档](https://github.com/xiaozhi-boy/Bing-Daily-Image-API/blob/main/README.en.md)
 #### Introduction
 Bing Daily Image API
 You can obtain Bing's daily wallpapers
